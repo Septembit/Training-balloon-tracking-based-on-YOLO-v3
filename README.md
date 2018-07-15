@@ -7,6 +7,8 @@ When I doing my research, I have to track a balloon that is binded on a drone. W
 ## 1.Darknet
 First, I complied the darknet accroding to this repository (https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects) on my Ubuntu.
 ## 2.Preparing dataset
-I downloaded the 2300 balloon images and marked the box according to [BBox Label Tool](https://github.com/puzzledqs/BBox-Label-Tool).
+I downloaded the 2300 balloon images and marked the box according to [BBox Label Tool](https://github.com/puzzledqs/BBox-Label-Tool). 
+![GitHub Logo](/Users/liyachao/Desktop/box_ori.png)
+(Before training, I used the convert.py to convert the the )
 
 
